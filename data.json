@@ -325,17 +325,6 @@
     ]
   },
   {
-    "name": "Connecticut",
-     "lat": "41.6032",
-     "lng": "-73.0877",
-    "children": [
-      {
-        "name": "Amphenol Technical Products International",
-        "summary": "Amphenol, which can be found in Scarborough, is a leading supplier of advanced interconnect systems, antennas and sensors for infotainment, telematics, communication and navigation modules for the automotive industry"
-      }
-    ]
-  },
-  {
      "name": "Delaware",
      "lat": "38.9108",
      "lng": "-75.5277",
@@ -585,21 +574,6 @@
       ]
     },
     {
-      "name": "Indiana",
-      "lat": "40.2672",
-      "lng": "-88.1349",
-      "children": [
-        {
-          "name": "Arvin Sango Canada Inc.",
-          "summary": "Arvin Sango, located in London, has specialized technology for automotive exhaust system products. Arvin Sango has been recognized, both domestically and overseas, as an \"approved drawings\" manufacturer. "
-        },
-        {
-          "name": "Accuride Corporation",
-          "summary": "Accuride Corporation is a manufacturer and supplier of wheels and wheel-end components in North American and European commercial vehicle markets. Accuride, with a manufacturing location in London, is the indutry's #1 single-source wheel-end solutions provider of both steel and aluminum wheels."
-        }
-      ]
-    },
-    {
       "name": "Israel",
       "lat": "31.0461",
       "lng": "34.8516",
@@ -741,17 +715,6 @@
       ]
     },
     {
-      "name": "Kentucky",
-      "lat": "37.8393",
-      "lng": "-84.2700",
-      "children": [
-        {
-          "name": "Steel Technologies LLC",
-          "summary": "Steel Technologies offers a wide variety of steel and steel services, including hold and hot rolled, high strength and low carbon steel as well as aluminum. Facilities in Cambridge and Woodstock offer slitting and in-line double-sided inspection."
-        }
-      ]
-    },
-    {
       "name": "Luxembourg",
       "lat": "49.6116",
     "lng": "6.1319",
@@ -759,17 +722,6 @@
         {
           "name": "ArcelorMittal",
           "summary": "ArecelorMittal Dofasco's products, manufactured in Hamilton, have a wide range of automotive applications, including interiors, exteriors, bumpers, brakes, wheels, as well as drivetrain, structural, and suspension components."
-        }
-      ]
-    },
-    {
-      "name": "Maryland",
-      "lat": "39.0458",
-    "lng": "-76.6413",
-      "children": [
-        {
-          "name": "Lockheed Martin",
-          "summary": "Lockheed Martin Canada’s IMPACT Centre in Kanata, Ontario is designed to kick-start R&D and technical education in a collaborative setting."
         }
       ]
     },
