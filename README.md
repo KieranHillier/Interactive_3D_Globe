@@ -1,4 +1,3 @@
 # Interactive-3D-Globe
 
-
-Demonstrates Ontarios global outreach by displaying internationally based companies that have major offices in Ontario
+Displays international companies that have a major office in Ontario
