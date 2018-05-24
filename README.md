@@ -1,4 +1,4 @@
-# Interactive-3D-Globe
+# Interactive 3D Globe
 
 Displays international companies that have a major office in Ontario. This represents Ontario's International economic outreach.
 
